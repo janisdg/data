@@ -10,7 +10,8 @@
 languages:
   - en
   - es
-
+  - de
+ 
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
